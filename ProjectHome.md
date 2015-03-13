@@ -1,0 +1,1 @@
+A heuristic based approach to solving a game of battleship. By using genetic programming, neural networks, and other heuristic algorithms, this code will be able to solve instances of a battleship game as competitively as a human without any instructions being "hard coded".
